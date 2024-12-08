@@ -1,0 +1,11 @@
+Reading modes:
+1. read - r
+    - the file will not be created
+    - if the file does not exist, an error will be thrown.
+2. write - w
+    - file will be created if it does not exist
+    - if the file exists, it will be recreated
+
+3. read and write - r+
+4. write and read - w+
+5. append - a
